@@ -1,6 +1,6 @@
 # Prerequisites
 ####2nd commit###
-####V.6 release####
+##V.6 release##
 - JDK 21 
 - Maven 3.9 
 - MySQL 8
